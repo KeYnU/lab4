@@ -1,1 +1,1 @@
-new_file
+int main(){return 0;}
